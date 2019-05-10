@@ -1,0 +1,9 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{3}
+\contentsline {section}{\numberline {2}Inventarliste}{3}
+\contentsline {section}{\numberline {3}\IeC {\"U}bungsdurchf\IeC {\"u}hrung}{3}
+\contentsline {subsection}{\numberline {3.1}Erzeugung eines pulsamplitudenmodulierten Signals}{3}
+\contentsline {subsection}{\numberline {3.2}Frequenzspektrum des pulsamplitudenmodulierten Signals}{5}
+\contentsline {subsection}{\numberline {3.3}\IeC {\"U}berpr\IeC {\"u}fung des Abtasttheorems}{9}
+\contentsline {subsection}{\numberline {3.4}Zeitmultiplexverfahren}{11}
+\contentsline {subsection}{\numberline {3.5}Pulscodemodulation}{13}
